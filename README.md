@@ -55,3 +55,9 @@ This project shows how SQL can be used to extract useful business insights from 
 ## Author
 Aditya Unnad  
 Aspiring Data Analyst
+
+## Business Recommendations
+
+- Focus marketing on top-performing pizza categories to maximize revenue
+- Promote large-size pizzas as they generate higher order value
+- Optimize staffing and delivery during peak evening hours
